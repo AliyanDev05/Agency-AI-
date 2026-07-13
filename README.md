@@ -40,6 +40,8 @@ src/
 │   ├── OurTeam.jsx
 │   ├── ContactUs.jsx
 │   └── Title.jsx
+|   └── Footer.jsx
+|   └── ServiceCard.jsx
 ├── App.jsx
 ├── main.jsx
 └── index.css        # Tailwind imports, @theme, @custom-variant
