@@ -60,7 +60,7 @@ src/
 
    ```bash
    git clone https://github.com/AliyanDev05/Agency-AI-.git
-   cd <Agency-AI>
+   cd Agency-AI
    ```
 
 2. Install dependencies
