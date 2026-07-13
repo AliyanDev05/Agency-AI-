@@ -73,7 +73,7 @@ function Navbar({ theme, setTheme }) {
           onClick={() => setSidebarOpen(true)}
         />
         <a
-          href="#contact-Us"
+          href="#contact-us"
           className="text-sm max-sm:hidden flex 
         items-center gap-2 bg-primary text-white px-6 py-2 rounded-full
         cursor-pointer hover:scale-103 transition-all"
